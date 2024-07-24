@@ -4,4 +4,6 @@
 */
 
 // 1. String 생성자 함수를 new 연산자 없이 호출하는 방법
-console.log(String(10));
+console.log(String(10)); // "10"
+console.log(String(NaN)); // "NaN"
+
