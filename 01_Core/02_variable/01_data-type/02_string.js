@@ -5,6 +5,7 @@
 자바에서는 String이 객체였지만, 자바 스크립트에서는 String이 원시타입으로 분류된다.
 */
 
+
 var string;
 string = 'javaScript';
 string = "javaScript";
